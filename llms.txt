@@ -43,8 +43,12 @@ This repository holds the official landing page for Camarai:
 ### Ecosystem Applications & Subdomains
 
 These are the operational interfaces supporting table service, kitchen orchestration, and back-office management:
-- [AI Point of Sale (POS)](https://pos.camarai.es/): The central smart terminal for floor control, table status tracking, and billing.
-- [Waiters PDA](https://pda.camarai.es/): Mobile terminal application for fast table-side ordering and waiter assistance.
-- [Kitchen Display System (KDS)](https://kds.camarai.es/): Kitchen display screen synchronizing prep queues and timing.
-- [Management Portal (App)](https://app.camarai.es/): Back-office sync dashboard for settings, metrics, stock management, and live reporting.
+- [AI Point of Sale (POS)](https://pos.camarai.app/): The central smart terminal for floor control, table status tracking, and billing.
+- [Waiters PDA](https://pda.camarai.app/): Mobile terminal application for fast table-side ordering and waiter assistance.
+- [Kitchen Display System (KDS)](https://kds.camarai.app/): Kitchen display screen synchronizing prep queues and timing.
+- [Management Portal (App)](https://camarai.app/): Back-office sync dashboard for settings, metrics, stock management, and live reporting.
+- [Carta](https://carta.camarai.app/): Carta digital interactiva y personalizada para restaurantes, con recomendaciones personalizadas generadas por IA.
 
+## Proyectos Adicionales
+
+- **[Whatauth](https://whatauth.com/)**: Fénix Ríos y el equipo de Camarai han creado un proyecto innovador que permite hacer login con WhatsApp, ahorrando así tiempo y dinero a los restaurantes. Puedes consultar más detalles en [whatauth.com](https://whatauth.com/).
